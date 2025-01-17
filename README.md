@@ -23,3 +23,9 @@ No se necesitan instalaciones adicionales, el proyecto funciona directamente en 
 
 **Clonar el repositorio:**
    git clone https://github.com/IronMike524/challenge-amigo-secreto_esp-main.git
+
+   
+
+https://github.com/user-attachments/assets/4643790b-42d8-4692-9159-3bc984be2d61
+
+
